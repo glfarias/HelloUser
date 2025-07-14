@@ -1,4 +1,4 @@
-from HelloUser.utilidades import *
+from utilidades import *
 
 
 def menuprincipal():
